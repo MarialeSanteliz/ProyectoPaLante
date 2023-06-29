@@ -111,6 +111,7 @@ main{
 /* content1 */
 .content-1{
     background: #afeeee;
+    border-radius: 20px;
 }
 .text-content1{
     padding: 50px 20px;
@@ -193,6 +194,11 @@ a {
     .navbar{
         display: flex;
         padding: 0px 20px;
+    }
+    .content-logo{
+        width: 250px;
+        height: 250px;
+
     }
 
     
